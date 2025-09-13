@@ -1,0 +1,19 @@
+    hoy aprendi sobre lo de script:module, que sirve para enlasar el app.js de index.html 
+    aprendi el div.contenedor, que sirve para crear un contenedor como el de google
+    tambien el input.entrada#txtentrada, crea una barra de texto en el contenedor 
+    placeholder, este es util para agregarle un texto al contenedorque hemos creado, cosas como escriba aqui, aqui para mas detalle, cosas asi 
+input:buttom.botones#btnagregar, despues de # puedes poner agregar, eliminar, modificar y mostrar, estos son los botones para realizar las actividades que quieres, ya sea buscar o borrar algo 
+
+javascript
+la aplicacion de logica de negocio se programa en el lenguaje de programacion 
+
+
+
+javascript soporta la programacion funcional, la programacion modular y la programacion orientada a objetos.
+
+en javascript se pueden utilizar funciones nativas y funciones definidas por el programador .
+
+ una funciones nativas: es aquella que viene integrada con el lenguaje de programacion y solo necesita ser invocada mas no declarada.                
+
+ una funcion definida: por el programador es aquella que si 
+ necesita ser declarada, definida y programada para luego ser invocada  
